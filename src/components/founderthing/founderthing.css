@@ -1,0 +1,41 @@
+.about-control {
+    background-color: #FF82A9;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-weight: 900;
+    border-top: solid 10px black;
+    border-bottom: solid 10px black;
+}
+
+.image-control img {
+    width: 100%;
+}
+
+.about-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.about-description header {
+    font-size: 50px;
+    line-height: 50px;
+    color: #172a55;
+    font-style: italic;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+
+.about-description p {
+    color: rgb(255, 255, 255);
+}
+
+.about-description p span {
+    color: #000000;
+}
+
+.about-description header span {
+    color: #ffffff;
+}
+
+

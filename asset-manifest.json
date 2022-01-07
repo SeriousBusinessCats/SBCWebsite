@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/SBCWebsite/static/css/main.a4e1effd.chunk.css",
+    "main.js": "/SBCWebsite/static/js/main.1b74af71.chunk.js",
+    "main.js.map": "/SBCWebsite/static/js/main.1b74af71.chunk.js.map",
+    "runtime-main.js": "/SBCWebsite/static/js/runtime-main.b4814f69.js",
+    "runtime-main.js.map": "/SBCWebsite/static/js/runtime-main.b4814f69.js.map",
+    "static/css/2.71f93bf9.chunk.css": "/SBCWebsite/static/css/2.71f93bf9.chunk.css",
+    "static/js/2.03effe3b.chunk.js": "/SBCWebsite/static/js/2.03effe3b.chunk.js",
+    "static/js/2.03effe3b.chunk.js.map": "/SBCWebsite/static/js/2.03effe3b.chunk.js.map",
+    "static/js/3.7bdfb3e2.chunk.js": "/SBCWebsite/static/js/3.7bdfb3e2.chunk.js",
+    "static/js/3.7bdfb3e2.chunk.js.map": "/SBCWebsite/static/js/3.7bdfb3e2.chunk.js.map",
+    "index.html": "/SBCWebsite/index.html",
+    "static/css/2.71f93bf9.chunk.css.map": "/SBCWebsite/static/css/2.71f93bf9.chunk.css.map",
+    "static/css/main.a4e1effd.chunk.css.map": "/SBCWebsite/static/css/main.a4e1effd.chunk.css.map",
+    "static/js/2.03effe3b.chunk.js.LICENSE.txt": "/SBCWebsite/static/js/2.03effe3b.chunk.js.LICENSE.txt",
+    "static/media/CenterPic.8cb4515a.png": "/SBCWebsite/static/media/CenterPic.8cb4515a.png",
+    "static/media/join-community.css": "/SBCWebsite/static/media/DickPix.be6bd296.png",
+    "static/media/OPENSEA_Banner.40e6ad61.png": "/SBCWebsite/static/media/OPENSEA_Banner.40e6ad61.png",
+    "static/media/Roadmap.7d8c759b.mp4": "/SBCWebsite/static/media/Roadmap.7d8c759b.mp4",
+    "static/media/boy1.f8b76f17.png": "/SBCWebsite/static/media/boy1.f8b76f17.png",
+    "static/media/catz.a1981156.gif": "/SBCWebsite/static/media/catz.a1981156.gif",
+    "static/media/cfo.439f1755.jpeg": "/SBCWebsite/static/media/cfo.439f1755.jpeg",
+    "static/media/cmo.439f1755.jpeg": "/SBCWebsite/static/media/cmo.439f1755.jpeg",
+    "static/media/cto.439f1755.jpeg": "/SBCWebsite/static/media/cto.439f1755.jpeg",
+    "static/media/dicklogo.9f1ffd25.png": "/SBCWebsite/static/media/dicklogo.9f1ffd25.png",
+    "static/media/fire.76eb30ed.png": "/SBCWebsite/static/media/fire.76eb30ed.png",
+    "static/media/item1.1c214071.png": "/SBCWebsite/static/media/item1.1c214071.png",
+    "static/media/item2.81e34ae6.png": "/SBCWebsite/static/media/item2.81e34ae6.png",
+    "static/media/item3.eec91da6.png": "/SBCWebsite/static/media/item3.eec91da6.png",
+    "static/media/header.css": "/SBCWebsite/static/media/newfont.7c5dab01.ttf",
+    "static/media/owl.009159d1.png": "/SBCWebsite/static/media/owl.009159d1.png",
+    "static/media/roadmap.2f2509ab.png": "/SBCWebsite/static/media/roadmap.2f2509ab.png",
+    "static/media/meet.css": "/SBCWebsite/static/media/wood.bb5ade50.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4814f69.js",
+    "static/css/2.71f93bf9.chunk.css",
+    "static/js/2.03effe3b.chunk.js",
+    "static/css/main.a4e1effd.chunk.css",
+    "static/js/main.1b74af71.chunk.js"
+  ]
+}

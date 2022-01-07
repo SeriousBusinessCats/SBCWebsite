@@ -1,0 +1,64 @@
+.meet-control {
+    padding-top: 40px;
+    padding-bottom: 60px;
+    background-image: url("../../assets/wood.jpg");
+    background-size: cover;
+    
+    /* background-color: #FFE1C9; */
+}
+
+.meet-control header {
+    font-size: 50px;
+    line-height: 50px;
+    color: #172a55;
+    font-style: italic;
+    font-weight: 900;
+    margin-bottom: 20px;
+    /* text-shadow: 1px 1px 10px black; */
+    background-color: #FF82A9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid 10px black;
+    border-radius: 20px;
+}
+
+.meet-control header span {
+    color: #172a55;
+    /* text-shadow: 1px 1px 10px black; */
+}
+
+.remaining {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 50px;
+    color: white;
+    font-style: italic;
+    font-weight: 900;
+}
+
+.remaining span {
+    color: #c8ff00;
+}
+
+.slide-arrows {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.caroImg {
+    border: solid black 10px;
+    border-radius: 20px;
+}
+
+.slide-arrows a{
+    cursor: pointer;
+    background-color: #c8ff00;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px
+}
