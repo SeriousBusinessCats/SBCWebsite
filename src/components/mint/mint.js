@@ -88,13 +88,11 @@ function Mint() {
                         </header>
                         <p style={{ textAlign: "center" }}>
 
-                        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-                        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-                        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-                        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-                        Lorem ipsum Lorem ipsum 
-                            <br/><br/>
-                            Lorem ipsum Lorem ipsum 
+                        With all these great benefits this club
+ has to offer, there is a small fee to join
+the club. Minting will be .255 ETH +Gas.
+<br/>
+
                             {/* <text style={{fontWeight: "bold"}}>
                                 <a style={{textDecoration: "none", color: "white", fontWeight: 900, fontSize: 20}}href="https://instagram.com/dickpixnft"> Instagram </a>
                             </text> 
@@ -108,7 +106,7 @@ function Mint() {
                             <span id="inputBox">{mintNum}</span>
                             <BsFilePlusFill color='white' size={40} onClick={() => plus_num()} />
                         </div>
-                        <p style={{marginTop: 0, marginBottom: 0}}>0.05 ETH + Gas</p>
+                        <p style={{marginTop: 0, marginBottom: 0}}>0.255 ETH + Gas</p>
                         {
                             blockchain.account === "" || blockchain.smartContract === null ?
                                 <div className="flex-column">

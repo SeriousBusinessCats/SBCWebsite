@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/SBCWebsite/static/css/main.a4e1effd.chunk.css",
-    "main.js": "/SBCWebsite/static/js/main.1b74af71.chunk.js",
-    "main.js.map": "/SBCWebsite/static/js/main.1b74af71.chunk.js.map",
+    "main.css": "/SBCWebsite/static/css/main.ff312b5b.chunk.css",
+    "main.js": "/SBCWebsite/static/js/main.dda4c5f5.chunk.js",
+    "main.js.map": "/SBCWebsite/static/js/main.dda4c5f5.chunk.js.map",
     "runtime-main.js": "/SBCWebsite/static/js/runtime-main.b4814f69.js",
     "runtime-main.js.map": "/SBCWebsite/static/js/runtime-main.b4814f69.js.map",
     "static/css/2.71f93bf9.chunk.css": "/SBCWebsite/static/css/2.71f93bf9.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.7bdfb3e2.chunk.js.map": "/SBCWebsite/static/js/3.7bdfb3e2.chunk.js.map",
     "index.html": "/SBCWebsite/index.html",
     "static/css/2.71f93bf9.chunk.css.map": "/SBCWebsite/static/css/2.71f93bf9.chunk.css.map",
-    "static/css/main.a4e1effd.chunk.css.map": "/SBCWebsite/static/css/main.a4e1effd.chunk.css.map",
+    "static/css/main.ff312b5b.chunk.css.map": "/SBCWebsite/static/css/main.ff312b5b.chunk.css.map",
     "static/js/2.03effe3b.chunk.js.LICENSE.txt": "/SBCWebsite/static/js/2.03effe3b.chunk.js.LICENSE.txt",
     "static/media/CenterPic.8cb4515a.png": "/SBCWebsite/static/media/CenterPic.8cb4515a.png",
     "static/media/join-community.css": "/SBCWebsite/static/media/DickPix.be6bd296.png",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.b4814f69.js",
     "static/css/2.71f93bf9.chunk.css",
     "static/js/2.03effe3b.chunk.js",
-    "static/css/main.a4e1effd.chunk.css",
-    "static/js/main.1b74af71.chunk.js"
+    "static/css/main.ff312b5b.chunk.css",
+    "static/js/main.dda4c5f5.chunk.js"
   ]
 }

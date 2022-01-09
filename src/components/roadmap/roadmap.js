@@ -16,44 +16,54 @@ class RoadMap extends React.Component {
         this.state = {
             roadmaps: [
                 {
-                    tag: 'Phase 1',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: '10%',
+                    title: "SELL OUT!! LET’S PAY THE BANKS!",
+                    content: "With the help of this community, we will be funded enough to provide dreams to all holders."
                 },
                 {
-                    tag: 'Phase 2',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: '20%',
+                    title: "REVEAL AND REWARDS!",
+                    content: "Once we sell out, we will have a live reveal party in which all holders have access to. Legendary holder will then be reveled for their chance to win a 2022 BMW M8 Competition Coupe or $100,000!!!"
                 },
                 {
-                    tag: 'Phase 3',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: '30%',
+                    title: "EXCLUSIVE 1-OF-1 MERCHANDISE ",
+                    content: "Holders that meet minimum hold time, will be entitled to a 1-of-1 hoodie that represents their own SBC. If hoodie is not claimed when the SBC is minted, secondary holder may claim it for themselves."
                 },
                 {
-                    tag: 'Phase 4',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: '40%',
+                    title: "SERIOUS BUSINESS CATS LAUNCH—PHASE 1",
+                    content: "60-Day hold verification will be completed. 2,500 holders will be randomly selected (if minimum held time is met) and will begin the process of verification and presentation of their business plan in order to be funded. "
                 },
                 {
-                    tag: 'Phase 5',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: '	50%  ',
+                    title: "SERIOUS BUSINESS CATS LAUNCH—PHASE 2",
+                    content: "2,500 holders will be randomly selected (if minimum held time is met) and will begin the process of verification and presentation of their business plan in order to be funded. "
                 },
                 {
-                    tag: 'Phase 6',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: '	60%  ',
+                    title: "SERIOUS BUSINESS CATS LAUNCH—PHASE 3",
+                    content: "2,500 holders will be randomly selected (if minimum held time is met) and will begin the process of verification and presentation of their business plan in order to be funded. "
                 },
                 {
-                    tag: 'Phase 7',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: '70% ',
+                    title: "	 SERIOUS BUSINESS CATS LAUNCH—PHASE 4",
+                    content: "2,500 holders will be randomly selected (if minimum held time is met) and will begin the process of verification and presentation of their business plan in order to be funded. (All first-time holders will have business up and running)"
                 },
                 {
-                    tag: 'Phase 8',
-                    title: "Lorem Ipsum",
-                    content: "Lorem Ipsum"
+                    tag: '80%',
+                    title: "   NO ONE IS LEFT BEHIND!",
+                    content: "90-Day verification will be done for all secondary owners and their business plans and verification will then be received and review in a timely fashion. ",
+                },
+                {
+                    tag: '90%',
+                    title: "LET’S GET RICH!",
+                    content: "All created and funded business would have been launched and monitored for the $1 Million mark. "
+                },
+                {
+                    tag: '100%',
+                    title: "LETS DO IT AGAIN!",
+                    content: "Serious Business Cats Club will give birth to their distant relatives and bring out new opportunities into the world. The creation of Serious Business Fox Club will be ready to launch. "
                 }
             ]
         }
@@ -64,9 +74,6 @@ class RoadMap extends React.Component {
             <div className='roadmap-control' id='roadmap' style={{ textAlign: "center" }}>
                 <Container style={{ backgroundColor: "#FF82A9", padding: 30, border: "solid black 10px", borderRadius: 20 }}>
                     <header style={{ fontWeight: 900 }}><span>CHECK OUT OUR</span> <br /> ROADMAP</header>
-                    <p className='roadmap-description'>
-                        Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum. Lorem ipsum.
-                    </p>
                     <Row style={{ alignContent: "center", justifyContent: "center", textAlign: "center" }}>
                         <Col xs={12} md={6}>
                             <img  className="roadimage"style={{border:"solid 10px black", borderRadius: 20}}src={roadmapimg} />

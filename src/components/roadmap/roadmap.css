@@ -33,7 +33,7 @@
 }
 
 .roadmap-control img {
-    width: 100%;
+    /* width: 100%; */
     text-align: center;
     color: black;
 }
@@ -53,8 +53,9 @@
 
 @media (min-width: 767px) {
     .roadimage {
-        height: 500px;
-        width: 600px;
+        margin-top:15%;
+        width: 100%;
+        height: 70%;
     }
 
 }
