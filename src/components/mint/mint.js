@@ -90,7 +90,7 @@ function Mint() {
 
                         With all these great benefits this club
  has to offer, there is a small fee to join
-the club. Minting will be .255 ETH +Gas.
+the club. Minting will be 0.333 ETH +Gas.
 <br/>
 
                             {/* <text style={{fontWeight: "bold"}}>
@@ -106,7 +106,7 @@ the club. Minting will be .255 ETH +Gas.
                             <span id="inputBox">{mintNum}</span>
                             <BsFilePlusFill color='white' size={40} onClick={() => plus_num()} />
                         </div>
-                        <p style={{marginTop: 0, marginBottom: 0}}>0.255 ETH + Gas</p>
+                        <p style={{marginTop: 0, marginBottom: 0}}>0.333 ETH + Gas</p>
                         {
                             blockchain.account === "" || blockchain.smartContract === null ?
                                 <div className="flex-column">

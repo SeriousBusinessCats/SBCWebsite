@@ -109,10 +109,7 @@ class About extends React.Component {
                 <br />
                 <text style={{color: "#172A55", fontSize: 25}}>• Royal Plains Suit</text>
                 <br />
-                Will be given a fully loaded <text style={{color: "#172A55", fontSize: 25}}>2022 BMW M8 Competition Coupe</text> in
-                the color of their choice! (MSRP $156,350.00)
-                <br/>
-                Holders can deny the car for a cash price of $100,000!
+                Will be given a reward of <text style={{color: "#172A55", fontSize: 25}}>5 Ethereum.</text>
               </p>
 
               {/* <div><YButton text='COMING SOON' /></div> */}

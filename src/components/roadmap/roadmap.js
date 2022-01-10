@@ -23,7 +23,7 @@ class RoadMap extends React.Component {
                 {
                     tag: '20%',
                     title: "REVEAL AND REWARDS!",
-                    content: "Once we sell out, we will have a live reveal party in which all holders have access to. Legendary holder will then be reveled for their chance to win a 2022 BMW M8 Competition Coupe or $100,000!!!"
+                    content: "Once we sell out, we will have a live reveal party in which all holders have access to. Legendary holder will then be rewarded 5 Ethereum."
                 },
                 {
                     tag: '30%',
